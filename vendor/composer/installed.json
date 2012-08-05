@@ -55,12 +55,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/Routing",
-            "reference": "30f54eb917f64d7735ba0b6a230e9620da95be9b"
+            "reference": "v2.1.0-RC1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/symfony/Routing/zipball/30f54eb917f64d7735ba0b6a230e9620da95be9b",
-            "reference": "30f54eb917f64d7735ba0b6a230e9620da95be9b",
+            "url": "https://github.com/symfony/Routing/zipball/v2.1.0-RC1",
+            "reference": "v2.1.0-RC1",
             "shasum": ""
         },
         "require": {
@@ -117,12 +117,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/HttpFoundation",
-            "reference": "2e28043ea4cd2aa173f5ec9f4f38231fd99305b1"
+            "reference": "v2.1.0-RC1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/symfony/HttpFoundation/zipball/2e28043ea4cd2aa173f5ec9f4f38231fd99305b1",
-            "reference": "2e28043ea4cd2aa173f5ec9f4f38231fd99305b1",
+            "url": "https://github.com/symfony/HttpFoundation/zipball/v2.1.0-RC1",
+            "reference": "v2.1.0-RC1",
             "shasum": ""
         },
         "require": {
@@ -169,12 +169,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/EventDispatcher",
-            "reference": "v2.1.0-BETA4"
+            "reference": "v2.1.0-RC1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/symfony/EventDispatcher/zipball/v2.1.0-BETA4",
-            "reference": "v2.1.0-BETA4",
+            "url": "https://github.com/symfony/EventDispatcher/zipball/v2.1.0-RC1",
+            "reference": "v2.1.0-RC1",
             "shasum": ""
         },
         "require": {
@@ -227,12 +227,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/symfony/HttpKernel",
-            "reference": "91f3e0892bd0c7f2a5ade8a82024ec4925e26c64"
+            "reference": "0d0ee371ab0425f3399dba9e25d7ad98ca5c0d62"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/symfony/HttpKernel/zipball/91f3e0892bd0c7f2a5ade8a82024ec4925e26c64",
-            "reference": "91f3e0892bd0c7f2a5ade8a82024ec4925e26c64",
+            "url": "https://github.com/symfony/HttpKernel/zipball/0d0ee371ab0425f3399dba9e25d7ad98ca5c0d62",
+            "reference": "0d0ee371ab0425f3399dba9e25d7ad98ca5c0d62",
             "shasum": ""
         },
         "require": {
@@ -297,12 +297,12 @@
         "source": {
             "type": "git",
             "url": "git://github.com/fabpot/Silex.git",
-            "reference": "7d2b1f2754aaa876688a0fd88918bb26b42b59ce"
+            "reference": "ee00393c33b3de861082602747a84d49897b9315"
         },
         "dist": {
             "type": "zip",
-            "url": "https://github.com/fabpot/Silex/zipball/7d2b1f2754aaa876688a0fd88918bb26b42b59ce",
-            "reference": "7d2b1f2754aaa876688a0fd88918bb26b42b59ce",
+            "url": "https://github.com/fabpot/Silex/zipball/ee00393c33b3de861082602747a84d49897b9315",
+            "reference": "ee00393c33b3de861082602747a84d49897b9315",
             "shasum": ""
         },
         "require": {
